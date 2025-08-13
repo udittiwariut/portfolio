@@ -1,0 +1,181 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "udit-farmland.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "#Cobble_Road_1": {
+            "dynamicWrapping": false
+        },
+        "#Grass": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "#Grass_1_Middle": {
+            "dynamicWrapping": true
+        },
+        "#Grass_2_Middle": {
+            "dynamicWrapping": false
+        },
+        "#Grass_Tiles_1": {
+            "dynamicWrapping": false
+        },
+        "#Path_Middle": {
+            "dynamicWrapping": false
+        },
+        "udit-farmland.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 276.33333333333337,
+                "y": 164.16666666666666
+            }
+        },
+        "udit-farmland.tmx#Bee_Flying_Animation": {
+            "scaleInDock": 5.5
+        },
+        "udit-farmland.tmx#Bee_Nest": {
+            "scaleInDock": 4
+        },
+        "udit-farmland.tmx#Benches": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Big_Fruit_Tree": {
+            "scaleInDock": 8
+        },
+        "udit-farmland.tmx#Chicken_01": {
+            "scaleInDock": 4
+        },
+        "udit-farmland.tmx#Cobble_Road_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 8
+        },
+        "udit-farmland.tmx#Cobble_Road_2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 5.5
+        },
+        "udit-farmland.tmx#Cow_01": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Crops": {
+            "scaleInDock": 4
+        },
+        "udit-farmland.tmx#Fence_Big": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Fences": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Fountain": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Grass_1_Middle": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Grass_2_Middle": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Grass_3_Anim": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Grass_Tiles_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2
+        },
+        "udit-farmland.tmx#Grass_Tiles_1_Blob_TEST_1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2
+        },
+        "udit-farmland.tmx#Grass_Tiles_4": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "udit-farmland.tmx#GreenHouse_Wood": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3
+        },
+        "udit-farmland.tmx#House_2_5": {
+            "scaleInDock": 0.75
+        },
+        "udit-farmland.tmx#House_3_5": {
+            "scaleInDock": 3
+        },
+        "udit-farmland.tmx#Indoor_Decor": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "udit-farmland.tmx#Lanter_Posts": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "udit-farmland.tmx#Lantern": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Outdoor_Decor": {
+            "scaleInDock": 4
+        },
+        "udit-farmland.tmx#Path_Decoration": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Path_Middle": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Planters": {
+            "scaleInDock": 4
+        },
+        "udit-farmland.tmx#Rock_3_Anim": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#SingBoard": {
+            "scaleInDock": 8
+        },
+        "udit-farmland.tmx#Social-media-Github": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Social-media-Me": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Social-media-leetcode": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#Social-media-linkden": {
+            "scaleInDock": 1
+        },
+        "udit-farmland.tmx#smoke_1.3_Anim": {
+            "scaleInDock": 5.5
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.imagePath": "D:/portfoilio/public/assets/Outdoor decoration",
+    "map.height": 17,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 30,
+    "openFiles": [
+        "udit-farmland.tmx"
+    ],
+    "project": "udit-farm-map.tiled-project",
+    "recentFiles": [
+        "udit-farmland.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
